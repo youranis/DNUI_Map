@@ -1,0 +1,55 @@
+{
+    "cloudfunctionRoot": "cloudfunctions/",
+    "description": "项目配置文件",
+    "setting": {
+        "bundle": false,
+        "userConfirmedBundleSwitch": false,
+        "urlCheck": true,
+        "scopeDataCheck": false,
+        "coverView": true,
+        "es6": true,
+        "postcss": true,
+        "compileHotReLoad": false,
+        "lazyloadPlaceholderEnable": false,
+        "preloadBackgroundData": false,
+        "minified": true,
+        "autoAudits": false,
+        "newFeature": false,
+        "uglifyFileName": false,
+        "uploadWithSourceMap": true,
+        "useIsolateContext": true,
+        "nodeModules": false,
+        "enhance": true,
+        "useMultiFrameRuntime": true,
+        "showShadowRootInWxmlPanel": true,
+        "packNpmManually": false,
+        "enableEngineNative": false,
+        "packNpmRelationList": [],
+        "minifyWXSS": true,
+        "showES6CompileOption": false,
+        "minifyWXML": true,
+        "babelSetting": {
+            "ignore": [],
+            "disablePlugins": [],
+            "outputPath": ""
+        },
+        "condition": true,
+        "ignoreUploadUnusedFiles": true
+    },
+    "compileType": "miniprogram",
+    "condition": {},
+    "editorSetting": {
+        "tabIndent": "insertSpaces",
+        "tabSize": 4
+    },
+    "simulatorPluginLibVersion": {
+        "wxext14566970e7e9f62": "3.0.2-8"
+    },
+    "appid": "wxd7b36afb0e2b2202",
+    "libVersion": "2.22.1",
+    "packOptions": {
+        "ignore": [],
+        "include": []
+    },
+    "projectArchitecture": "multiPlatform"
+}
