@@ -1,5 +1,7 @@
 # DNUI_Map
 DNUI校园微导航
+![74345f1870588f8258eeac098e8ada0](https://github.com/youranis/DNUI_Map/assets/88256681/6264bf3b-63ea-42c9-be7d-bccc817fae62)
+
 #原作者主页
 https://space.bilibili.com/384844986
 这个微信小程序大致结构包括前端页面布局和后端数据库调用两个主要部分。
@@ -55,3 +57,20 @@ App({
 微信小程序的云开发还提供了实时数据同步功能，即当数据库中的数据发生变化时，小程序可以实时收到变更通知并更新页面数据。这一功能可以通过监听数据库的变更事件来实现，具体可以参考云开发文档中的相关说明。
 
 通过以上步骤，你可以在微信小程序中使用云开发的云数据库功能，实现数据的存储、管理和实时同步，为小程序提供强大的数据支持。
+
+
+原奇洞喵念科技发展有限公司
+![1aae48d99395ae2c91e69cb725cf2b9](https://github.com/youranis/DNUI_Map/assets/88256681/a15b93da-b65c-44bc-bedd-dea1dcfb4e75)
+协作企业  负责线上推广，合作开发和 鸿蒙生态app开发
+
+ui设计
+Belawumia
+相关主页
+gio.kami.su，gio.kami.su/litematerials，gio.kami.su/paletakuolie.kami.su
+
+
+昌江区智革科技中心
+协作企业，负责ai模块算法接口部分开发（企业备案）
+![image](https://github.com/youranis/DNUI_Map/assets/88256681/d73a9008-e717-48ab-b9e9-82e158df4202)
+
+
