@@ -82,5 +82,5 @@ Belawumia
 
 已经实现web端接口
 http://vps1.subei.cloud:45000/
-
+<img src="https://github.com/youranis/DNUI_Map/assets/88256681/45cbf31b-dc53-4950-a8d2-86fe55b3654e" width="300">
 
