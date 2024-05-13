@@ -80,4 +80,7 @@ Belawumia
 **协作企业**  
 负责 AI 模块算法接口部分开发（企业备案）。
 
+已经实现web端接口
+http://vps1.subei.cloud:45000/
+
 
