@@ -58,19 +58,26 @@ App({
 
 通过以上步骤，你可以在微信小程序中使用云开发的云数据库功能，实现数据的存储、管理和实时同步，为小程序提供强大的数据支持。
 
+## 原奇洞喵念科技发展有限公司
 
-原奇洞喵念科技发展有限公司
-![1aae48d99395ae2c91e69cb725cf2b9](https://github.com/youranis/DNUI_Map/assets/88256681/a15b93da-b65c-44bc-bedd-dea1dcfb4e75)
-协作企业  负责线上推广，合作开发和 鸿蒙生态app开发
+<img src="https://github.com/youranis/DNUI_Map/assets/88256681/a15b93da-b65c-44bc-bedd-dea1dcfb4e75" width="600">
 
-ui设计
+**协作企业**  
+负责线上推广，合作开发和鸿蒙生态app开发。
+
+**UI设计**  
 Belawumia
-相关主页
-gio.kami.su，gio.kami.su/litematerials，gio.kami.su/paletakuolie.kami.su
 
+**相关主页**  
+- [gio.kami.su](http://gio.kami.su)
+- [gio.kami.su/litematerials](http://gio.kami.su/litematerials)
+- [paletakuolie.kami.su](http://paletakuolie.kami.su)
 
-昌江区智革科技中心
-协作企业，负责ai模块算法接口部分开发（企业备案）
-![image](https://github.com/youranis/DNUI_Map/assets/88256681/d73a9008-e717-48ab-b9e9-82e158df4202)
+## 昌江区智革科技中心
+
+<img src="https://github.com/youranis/DNUI_Map/assets/88256681/d73a9008-e717-48ab-b9e9-82e158df4202" width="600">
+
+**协作企业**  
+负责 AI 模块算法接口部分开发（企业备案）。
 
 
