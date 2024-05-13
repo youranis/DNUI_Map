@@ -60,7 +60,7 @@ App({
 
 ## 原奇洞喵念科技发展有限公司
 
-<img src="https://github.com/youranis/DNUI_Map/assets/88256681/a15b93da-b65c-44bc-bedd-dea1dcfb4e75" width="600">
+<img src="https://github.com/youranis/DNUI_Map/assets/88256681/a15b93da-b65c-44bc-bedd-dea1dcfb4e75" width="300">
 
 **协作企业**  
 负责线上推广，合作开发和鸿蒙生态app开发。
@@ -75,7 +75,7 @@ Belawumia
 
 ## 昌江区智革科技中心
 
-<img src="https://github.com/youranis/DNUI_Map/assets/88256681/d73a9008-e717-48ab-b9e9-82e158df4202" width="600">
+<img src="https://github.com/youranis/DNUI_Map/assets/88256681/d73a9008-e717-48ab-b9e9-82e158df4202" width="300">
 
 **协作企业**  
 负责 AI 模块算法接口部分开发（企业备案）。
